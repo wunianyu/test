@@ -18,3 +18,6 @@ echo dev_new;
 
 
 ////dev_new
+
+echo master;
+
